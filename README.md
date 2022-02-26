@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 
 Computer Scientist specializing in the areas of computer graphics, real-time rendering, and digital art.
 
-• game engines
-• computer graphics
-• real-time rendering 
-• game networking
 
-• C / C++
-• Vulkan
-• PhysX
-• GLSL
-• C# Unity
+- game engines
+- computer graphics
+- real-time rendering 
+- game networking
+
+&nbsp;
+
+- C / C++
+- Vulkan
+- PhysX
+- GLSL
+- C# Unity
