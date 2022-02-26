@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GabrielJadderson/GabrielJadderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Computer Scientist specializing in the areas of computer graphics, real-time rendering, and digital art.
+
+• game engines
+• computer graphics
+• real-time rendering 
+• game networking
+
+• C / C++
+• Vulkan
+• PhysX
+• GLSL
+• C# Unity
