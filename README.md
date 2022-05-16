@@ -20,6 +20,7 @@ Computer Scientist specializing in the areas of computer graphics, real-time ren
 - computer graphics
 - real-time rendering 
 - game networking programming
+- and web stuff
 
 &nbsp;
 
