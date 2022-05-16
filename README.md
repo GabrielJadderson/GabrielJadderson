@@ -29,6 +29,7 @@ Computer Scientist specializing in the areas of computer graphics, real-time ren
 - GLSL
 - C# Unity
 
+&nbsp;
 - Typescript
 - React/NodeJS
 - GraphQL
