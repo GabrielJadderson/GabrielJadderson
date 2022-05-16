@@ -28,6 +28,7 @@ Computer Scientist specializing in the areas of computer graphics, real-time ren
 - PhysX
 - GLSL
 - C# Unity
+- Unreal Engine
 
 &nbsp;
 - Typescript
