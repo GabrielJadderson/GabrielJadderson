@@ -28,3 +28,11 @@ Computer Scientist specializing in the areas of computer graphics, real-time ren
 - PhysX
 - GLSL
 - C# Unity
+
+- Typescript
+- React/NodeJS
+- GraphQL
+- NextJS
+- Tailwindcss
+- Docker
+- Kubenetes
