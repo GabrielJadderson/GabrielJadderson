@@ -25,7 +25,6 @@ Computer Scientist specializing in the areas of computer graphics, real-time ren
 
 - C / C++
 - Vulkan
-- PhysX
 - GLSL
 - C# Unity
 - Unreal Engine
