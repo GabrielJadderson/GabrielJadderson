@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Computer Scientist specializing in the areas of computer graphics, real-time rendering, and digital art.
+Game developer specializing in the areas of computer graphics, real-time rendering, and digital art.
 
 
 - game engines
